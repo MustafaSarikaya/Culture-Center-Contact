@@ -1,4 +1,4 @@
-co.appbrewery.micard
+com.example.mi_card_app
 attr activityAction
 attr activityName
 attr alpha
@@ -155,6 +155,7 @@ layout notification_template_part_time
 mipmap ic_launcher
 string status_bar_notification_info_overflow
 style LaunchTheme
+style NormalTheme
 style TextAppearance_Compat_Notification
 style TextAppearance_Compat_Notification_Info
 style TextAppearance_Compat_Notification_Line2
